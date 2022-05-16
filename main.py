@@ -151,3 +151,5 @@ pen1 = Pen()
 turtle.onkeypress(bye, 'q')
 turtle.listen()
 done()
+
+print("carlos")
